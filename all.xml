@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 02:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] 이달의 봄! 올리비아 혜가 찾아왔어요 (네이버 포스트 ─ Block Berry Creative ─ LOONA)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33501190&amp;memberNo=39258591&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33501190&amp;memberNo=39258591&amp;navigationType=push</guid>
+            <pubDate>Thu, 24 Mar 2022 03:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">블록베리크리에이티브</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjJfMTAw/MDAxNjQ3OTUxOTYxOTM5.VevtXRS4yObVN8giMZUpGxr3-wASVkhrE8xRopPTRPAg.jH90Sn7I29haFZDWgpGsNsDYg-2HXQn2NDikFegASfcg.JPEG/I6M1uf5Ny-BIHeb74ZrGq8oWM_S0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀]
 Stand by, Chuu! (네이버 포스트 ─ Block Berry Creative ─ LOONA)]]></title>
@@ -187,16 +195,6 @@ Chuu가 좋아서 그래♡ (네이버 포스트 ─ Block Berry Creative ─ LO
             <pubDate>Sun, 13 Feb 2022 23:02:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">블록베리크리에이티브</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMTBfMjMg/MDAxNjEyOTUwNDE2MzMw.FPcDJN2gyAPckM3uT9CyqoSHtlvd0_P-oRqVGjqDtR0g.g-O4XLroy1Uo5DX4p_GWs-YZKnNBtq6GcDEgEVQPh0gg.JPEG/Iy-L1ZA2x96N0YEvY359RJNBd7JQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀]
-1월 1일과 잘 어울리는
-첫 번째 소녀 (네이버 포스트 ─ Block Berry Creative ─ LOONA)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30370162&amp;memberNo=39258591&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30370162&amp;memberNo=39258591&amp;navigationType=push</guid>
-            <pubDate>Sun, 13 Feb 2022 23:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블록베리크리에이티브</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMDFfMjM0/MDAxNjA5NDgzODY1MzQ3.x3L4HrNu5vKp75WpLna1MnMj680LuBC-BUpJY91TCkwg.IjWukmQ-gatxDr9E8HmHe2xaq24mAEZey27z_-DWV4cg.JPEG/IVdaormEi2alJZssBpy4LB5HPhJs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
